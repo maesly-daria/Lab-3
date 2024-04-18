@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #f2f2f2;
+    flex: auto;
+    text-align: center;
+}
+
+.product-card p{
+  width: 550px; 
+  margin-left: 350px; 
+}
+
+.buy-btn{
+    border: 5px solid #0883c6;
+    border-radius: 5px;
+}

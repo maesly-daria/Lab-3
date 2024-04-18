@@ -1,0 +1,8 @@
+header, footer, aside{
+    display: none;
+}
+
+body {
+    width: 50%;
+    white-space: nowrap;
+}
